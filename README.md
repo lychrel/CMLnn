@@ -1,3 +1,4 @@
+![tent](img/tent.gif)
 # cmlnn
 Learning to use spatiotemporal chaos
 
